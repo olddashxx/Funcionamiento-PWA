@@ -1,0 +1,25 @@
+{
+  "name": "Gabriel Garay - Portafolio PWA Oficial",
+  "short_name": "Gabriel.dev",
+  "description": "Portafolio y Presentación Personal en formato PWA con arquitectura reactiva, validaciones y filtros.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#0f172a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%230f172a'/><circle cx='256' cy='256' r='180' fill='%23f97316' opacity='0.15'/><path d='M160 360L256 150L352 360H295L256 270L217 360H160Z' fill='%2338bdf8'/><path d='M225 290L256 220L287 290H225Z' fill='%23f97316'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%230f172a'/><circle cx='256' cy='256' r='180' fill='%23f97316' opacity='0.15'/><path d='M160 360L256 150L352 360H295L256 270L217 360H160Z' fill='%2338bdf8'/><path d='M225 290L256 220L287 290H225Z' fill='%23f97316'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
